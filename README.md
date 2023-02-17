@@ -1,2 +1,2 @@
 # Maps-GeospatialAnalysis
-Maps, ArcGISPro Projects &amp;
+Maps, ArcGISPro & Geospatial Analysis Projects
