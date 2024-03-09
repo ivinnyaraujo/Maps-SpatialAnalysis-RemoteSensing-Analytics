@@ -1,2 +1,1 @@
-# Maps-GeospatialAnalysis
-Maps & Geospatial Analysis Projects
+# Maps-GeospatialAnalysis-RemoteSensing-Analytics
